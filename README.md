@@ -38,9 +38,7 @@ Rather than relying on a single tactic, the SEO approach focused on scalable fun
 - Visibility driven by entity authority and semantic relevance, not ads
   
 
-## 📊 Organic Search Performance (28 Days vs 3 Months)
-
-![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/4491fe5421b82aae388ab065825c01e2cc44c156/28%20days%20and%203%20Months%20Performance%20search%20result.jpg)
+## 📊 Organic Search Performance 
 
 - Crossed 1.8M impressions within 3 months
 - Steady increase in clicks reflecting improved demand capture
