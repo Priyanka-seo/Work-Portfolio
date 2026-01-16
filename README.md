@@ -1,6 +1,6 @@
 # Work-Portfolio
 3RI Technologies operates in a highly competitive education niche with multiple technical courses targeting the same local market (Pune).
-The challenge was not just ranking individual pages, but building consistent visibility across courses, improving local presence, and positioning the brand for AI-driven search results.### 📊 Keyword Ranking Impact (Local + Organic SEO)
+The challenge was not just ranking individual pages, but building consistent visibility across courses, improving local presence, and positioning the brand for AI-driven search results.
 
 # SEO Objectives
 - Improve first-page visibility for high-intent course keywords
