@@ -28,3 +28,20 @@ This snapshot demonstrates **AI Overview visibility for 3RI Technologies** acros
 - Successful alignment with **search intent, structured content, and local relevance**
 
 This reflects a mature SEO strategy focused on **brand authority and future-ready search experiences**, not keyword dependency.
+
+
+## 📊 Organic Search Performance (28 Days vs 3 Months)
+
+![Google Search Console Performance](assets/seo-results/gsc-performance-growth.jpg)
+
+This shows steady organic growth built over time, with search visibility increasing consistently across multiple queries. Over a 3-month period, impressions crossed **1.8M**, supported by a clear upward trend in clicks, indicating stronger keyword coverage and improved relevance in Google Search.
+
+The growth reflects ongoing SEO efforts focused on content optimization, query intent alignment, and broader SERP coverage rather than short-term traffic spikes.
+
+**Key SEO outcomes demonstrated:**
+- Consistent increase in organic impressions and clicks
+- Expanded keyword footprint across mid-ranking positions
+- Improved demand capture through intent-focused optimization
+- Sustainable SEO growth driven by structured on-page improvements
+
+🔎 *Data source: Google Search Console | Focus: long-term organic visibility & scalable SEO growth*
