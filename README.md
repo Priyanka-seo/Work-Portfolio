@@ -1,7 +1,13 @@
 # Work-Portfolio
-SEO Specialist with 2+ years of hands-on experience in the IT education industry. I work on real-world SEO execution including keyword research, course page optimization, technical SEO, content strategy, and performance analysis to improve organic traffic, rankings, and lead generation for job-oriented courses.
+3RI Technologies operates in a highly competitive education niche with multiple technical courses targeting the same local market (Pune).
+The challenge was not just ranking individual pages, but building consistent visibility across courses, improving local presence, and positioning the brand for AI-driven search results.### 📊 Keyword Ranking Impact (Local + Organic SEO)
 
-### 📊 Keyword Ranking Impact (Local + Organic SEO)
+# SEO Objectives
+- Improve first-page visibility for high-intent course keywords
+- Strengthen Local SEO presence (Maps + organic)
+- Expand keyword coverage across multiple technologies
+- Build brand/entity authority for AI Overview inclusion
+- Achieve sustainable organic growth, not traffic spikes
 
 This snapshot highlights the **organic and local SEO growth achieved for 3RI Technologies**, where multiple **high-intent course keywords** (Python, Data Science, React, Cybersecurity, Salesforce, Tosca) rank on **Google’s first page and Local Pack**.
 
