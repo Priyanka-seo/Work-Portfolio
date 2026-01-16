@@ -19,12 +19,13 @@ Rather than relying on a single tactic, the SEO approach focused on scalable fun
 
   # 📈 SEO Execution Highlights
   
-## 1️⃣ Keyword Rankings (Local + Organic)
+## Keyword Rankings (Local + Organic)
 ![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/b4e1095b485613dba389b8e2170ef69310b97988/Keyword%20Ranking.jpg)
 
 - Achieved first-page visibility for multiple competitive course keywords
 - Strong presence in both organic results and Google Local Pack
 - Consistent rankings across different technical verticals
+  
 
 ### 🤖 Google AI Overview Inclusion (Entity-Based SEO)
 
@@ -33,6 +34,7 @@ Rather than relying on a single tactic, the SEO approach focused on scalable fun
 - Brand referenced directly inside Google AI Overview responses
 - Recognition as a trusted local institute for React, AWS, and DevOps
 - Visibility driven by entity authority and semantic relevance, not ads
+  
 
 ## 📊 Organic Search Performance (28 Days vs 3 Months)
 
