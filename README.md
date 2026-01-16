@@ -32,7 +32,7 @@ This reflects a mature SEO strategy focused on **brand authority and future-read
 
 ## 📊 Organic Search Performance (28 Days vs 3 Months)
 
-![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/4491fe5421b82aae388ab065825c01e2cc44c156/28%20days%20and%203%20Months%20Performance%20search%20result.jpg))
+![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/4491fe5421b82aae388ab065825c01e2cc44c156/28%20days%20and%203%20Months%20Performance%20search%20result.jpg)
 
 This shows steady organic growth built over time, with search visibility increasing consistently across multiple queries. Over a 3-month period, impressions crossed **1.8M**, supported by a clear upward trend in clicks, indicating stronger keyword coverage and improved relevance in Google Search.
 
