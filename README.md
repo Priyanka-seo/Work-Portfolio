@@ -16,6 +16,8 @@ Rather than relying on a single tactic, the SEO approach focused on scalable fun
 - Local SEO optimization for Pune-based searches
 - Content refinement using Google Search Console insights
 - Consistent entity signals across content and brand mentions
+- Built a natural backlink profile with a healthy follow/nofollow mix
+- Focused on authority signals that support both traditional search and AI-driven results
 
 # 📈 SEO Execution Highlights
   
@@ -45,3 +47,14 @@ Rather than relying on a single tactic, the SEO approach focused on scalable fun
 - Growth supported by expanding keyword footprint, not isolated wins
 
 🔎 *Data source: Google Search Console | Focus: long-term organic visibility & scalable SEO growth*
+
+## 📊 Organic Overview & Authority Growth (SEMrush)
+
+![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/deb5cb1dc9fa1fdefafc143c19df03dda9c7ff71/organic%20overview.png)
+![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/deb5cb1dc9fa1fdefafc143c19df03dda9c7ff71/Backlink.jpg)
+
+- Growth in organic keywords and traffic without paid dependency
+- Strong authority and referring domain profile
+- Brand visibility improving across search experiences, including AI Overviews
+
+
