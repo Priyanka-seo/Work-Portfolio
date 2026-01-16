@@ -14,3 +14,17 @@ This snapshot highlights the **organic and local SEO growth achieved for 3RI Tec
 - Scalable SEO execution across **multiple technologies & categories**
 
 This reflects a **strategy-driven SEO approach**, not isolated keyword wins.
+
+### 🤖 Google AI Overview Inclusion (Entity-Based SEO)
+
+This snapshot demonstrates **AI Overview visibility for 3RI Technologies** across multiple high-intent queries such as *React JS courses*, *AWS training*, and *DevOps institutes in Pune*.
+
+![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/b25832ac7c47e825624900bbd7b5fa861fafb8c5/AI%20Overview.jpg)
+
+**What this SEO result indicates:**
+- Google recognizes **3RI Technologies as a trusted local education entity**
+- Content is optimized for **AI-driven SERPs**, not just traditional rankings
+- Strong **topical authority + entity consistency** across courses
+- Successful alignment with **search intent, structured content, and local relevance**
+
+This reflects a mature SEO strategy focused on **brand authority and future-ready search experiences**, not keyword dependency.
