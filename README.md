@@ -17,7 +17,7 @@ Rather than relying on a single tactic, the SEO approach focused on scalable fun
 - Content refinement using Google Search Console insights
 - Consistent entity signals across content and brand mentions
 
-  # 📈 SEO Execution Highlights
+# 📈 SEO Execution Highlights
   
 ## Keyword Rankings (Local + Organic)
 ![image alt](https://github.com/Priyanka-seo/Work-Portfolio/blob/b4e1095b485613dba389b8e2170ef69310b97988/Keyword%20Ranking.jpg)
