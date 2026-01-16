@@ -5,6 +5,7 @@ SEO Specialist with 2+ years of hands-on experience in the IT education industry
 
 This snapshot highlights the **organic and local SEO growth achieved for 3RI Technologies**, where multiple **high-intent course keywords** (Python, Data Science, React, Cybersecurity, Salesforce, Tosca) rank on **Google’s first page and Local Pack**.
 
+
 **Key SEO outcomes demonstrated:**
 - Consistent **Top SERP visibility** for competitive education keywords in Pune
 - Strong **Local SEO presence** (Google Maps + organic listings)
