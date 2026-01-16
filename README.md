@@ -38,10 +38,13 @@ This shows steady organic growth built over time, with search visibility increas
 
 The growth reflects ongoing SEO efforts focused on content optimization, query intent alignment, and broader SERP coverage rather than short-term traffic spikes.
 
-**Key SEO outcomes demonstrated:**
-- Consistent increase in organic impressions and clicks
-- Expanded keyword footprint across mid-ranking positions
-- Improved demand capture through intent-focused optimization
-- Sustainable SEO growth driven by structured on-page improvements
+### What worked here :
+
+- Mapping content to **search intent**, not just keywords  
+- Strengthening **on-page structure** so pages perform across multiple queries  
+- Using **Search Console data** to identify opportunity gaps and refine content  
+- Allowing SEO to **compound over time** instead of forcing short-term wins  
+
+This is the kind of growth that may look slow on a weekly chart — but proves strong and sustainable on a quarterly view.
 
 🔎 *Data source: Google Search Console | Focus: long-term organic visibility & scalable SEO growth*
