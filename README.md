@@ -9,8 +9,6 @@ The challenge was not just ranking individual pages, but building consistent vis
 - Build brand/entity authority for AI Overview inclusion
 - Achieve sustainable organic growth, not traffic spikes
 
-[click here to know more](https://www.linkedin.com/posts/priyankasingh91_seo-keyword-research-in-2026-is-not-about-activity-7430202006927073280-MLHK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzfXFIBQR-iEDnEPfy5x4xQof0L4yakmbg)
-
 # SEO Strategy Applied
 Rather than relying on a single tactic, the SEO approach focused on scalable fundamentals:
 - Search intent mapping for course, certification, and placement-based queries
