@@ -1,6 +1,14 @@
-# Work-Portfolio
+# Introduction
 3RI Technologies operates in a highly competitive education niche with multiple technical courses targeting the same local market (Pune).
 The challenge was not just ranking individual pages, but building consistent visibility across courses, improving local presence, and positioning the brand for AI-driven search results.
+
+### Table Of Content
+|SEO  | Work |
+| ----- | ------ |
+| [Web Site Audit](#Web-Site-Audit) | DA,PA,Spam score, Domain Age |
+
+
+### Web Site Audit
 
 # SEO Objectives
 - Improve first-page visibility for high-intent course keywords
