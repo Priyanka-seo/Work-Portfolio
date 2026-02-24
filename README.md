@@ -1,3 +1,15 @@
+<p align="right">
+  <a href="#seo">
+    <img src="https://img.shields.io/badge/SEO-Projects-blue?style=for-the-badge" />
+  </a>
+  <a href="#technical-seo">
+    <img src="https://img.shields.io/badge/Technical-SEO-green?style=for-the-badge" />
+  </a>
+  <a href="#local-seo">
+    <img src="https://img.shields.io/badge/Local-SEO-orange?style=for-the-badge" />
+  </a>
+</p>
+<br/>
 # Introduction
 3RI Technologies operates in a highly competitive education niche with multiple technical courses targeting the same local market (Pune).
 The challenge was not just ranking individual pages, but building consistent visibility across courses, improving local presence, and positioning the brand for AI-driven search results.
