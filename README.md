@@ -1,12 +1,12 @@
 <p align="right">
   <a href="#seo">
-    <img src="https://img.shields.io/badge/SEO-Projects-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SEO-1E1E1E?style=for-the-badge&logo=google&logoColor=gold" />
   </a>
   <a href="#technical-seo">
-    <img src="https://img.shields.io/badge/Technical-SEO-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Technical-SEO-2C3E50?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="#local-seo">
-    <img src="https://img.shields.io/badge/Local-SEO-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Local-SEO-8E44AD?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </a>
 </p>
 
