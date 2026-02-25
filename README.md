@@ -26,6 +26,10 @@ The challenge was not just ranking individual pages, but building consistent vis
 | [SEO Objectives](#SEO-Objectives) | Ranking,AI Overview,Traffic and Lead growth |
 
 # Web Site Audit
+|Web site Audit |Work Done |
+|--------- | ---------- |
+|Technical SEO Audit |         |
+|On Page SEO Audit |           |
 
 # SEO Objectives
 - Improve first-page visibility for high-intent course keywords
