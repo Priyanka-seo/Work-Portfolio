@@ -28,8 +28,17 @@ The challenge was not just ranking individual pages, but building consistent vis
 # Web Site Audit
 |Web site Audit |Work Done |
 |--------- | ---------- |
-|Technical SEO Audit |         |
-|On Page SEO Audit |           |
+|Site architecture and navigation audit |          |
+|Technical SEO audit |         |
+|On Page SEO audit |           |
+|Content audit |               |
+|Backlink audit |               |
+|Local SEO audit |              |
+|Mobile SEO audit |              |
+|Penalty and recovery audit |     |
+|Analytics & Tracking Audit |      |
+
+
 
 # SEO Objectives
 - Improve first-page visibility for high-intent course keywords
