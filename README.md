@@ -25,7 +25,7 @@ The challenge was not just ranking individual pages, but building consistent vis
 | [Web Site Audit](#Web-Site-Audit) | DA,PA,Spam score, Domain Age, all SEO Fcators |
 | [SEO Objectives](#SEO-Objectives) | Ranking,AI Overview,Traffic and Lead growth |
 
-# [Web Site Audit](Site-Architecture-Navigation-Audit)
+# [Web Site Audit]([Site-Architecture-Navigation-Audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit/blob/main/README.md))
 |Web site Audit |Work Done |
 |--------- | ---------- |
 |Site architecture and navigation audit |URL structure, Navigation Structure, Internal Linking, crawl depth, mobile navigation|
