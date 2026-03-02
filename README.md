@@ -28,7 +28,7 @@ The challenge was not just ranking individual pages, but building consistent vis
 # Web Site Audit
 |Web site Audit |Work Done |
 |--------- | ---------- |
-|Site architecture and navigation audit |          |
+|Site architecture and navigation audit |Clear & Readable URL, Navigation Structure, Internal Linking, crawl depth, mobile navigation|
 |Technical SEO audit |         |
 |On Page SEO audit |           |
 |Content audit |               |
