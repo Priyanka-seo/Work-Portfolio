@@ -49,7 +49,7 @@ The challenge was not just ranking individual pages, but building consistent vis
 - Achieve sustainable organic growth, not traffic spikes
 
 # Site architecture and navigation audit 
-# [Detailed document for Site architecture and navigation audit](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit/edit/main/README.md)
+# [📖 A complete technical walkthrough covering structure, crawl depth, internal linking, breadcrumbs & navigation flow.](https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit/edit/main/README.md)
 
 # 📈 SEO Execution Highlights
   
